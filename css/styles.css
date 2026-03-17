@@ -112,28 +112,28 @@ address {
 /* #region Section 2 */
 
 .main-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-size: 36px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
 
-.strategy-paragraph {
+.main-paragraph {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #FFFFFF;
 }
 /* #endregion Section 2 */
 
 /* #region Section 3 */
 .section-team {
-  background-color: #ffffff;
+  background-color: #F4F4FD;
 }
 
-.title-member {
+.title-h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -142,19 +142,9 @@ address {
   color: #2e2f42;
 }
 
-.list-team-job {
-  font-size: 16px;
-}
 /* #endregion Section 3 */
 
 /* #region Section 4 */
-.app-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
 
 .app-paragraph {
   font-weight: 400;
