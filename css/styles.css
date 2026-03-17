@@ -124,7 +124,6 @@ address {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
-  background-color: #FFFFFF;
 }
 /* #endregion Section 2 */
 
@@ -150,6 +149,10 @@ address {
   font-weight: 400;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.card{
+  background-color: #FFFFFF;
 }
 
 /* #endregion Section 4 */
